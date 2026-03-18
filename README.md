@@ -4,8 +4,11 @@ A custom connector that enables seamless integration between **Discourse** (comm
 
 This connector allows teams to automate community interactions, sync discussions, and integrate forum activity with support systems, CRMs, and internal tools.
 
-> ⚠️ This is an unofficial connector and is not affiliated with or endorsed by Workato or Discourse.
-> ⚠️ This connector uses publicly available Discourse APIs.
+> ⚠️ **Unofficial Connector**  
+> This is not affiliated with or endorsed by Workato or Discourse.
+>
+> ⚠️ **API Usage**  
+> This connector uses publicly available Discourse APIs.
 
 ---
 
