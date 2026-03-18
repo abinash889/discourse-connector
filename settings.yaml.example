@@ -1,0 +1,3 @@
+base_url: "https://yourforum.discourse.org"
+api_key: "your_api_key_here"
+api_username: "your_username_here"

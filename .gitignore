@@ -1,0 +1,21 @@
+# secrets
+.env
+master.key
+settings.yaml
+
+# docker
+Dockerfile
+docker-compose.yml
+
+# test inputs
+input*.json
+
+# ruby
+*.enc
+.bundle/
+vendor/
+
+# rspec
+.rspec_status
+
+spec/cassettes/connector/
