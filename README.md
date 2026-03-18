@@ -49,7 +49,7 @@ A custom Workato connector for [Discourse](https://www.discourse.org/) — the o
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/discourse-connector.git
+git clone https://github.com/abinash889/discourse-connector.git
 cd discourse-connector
 ```
 
