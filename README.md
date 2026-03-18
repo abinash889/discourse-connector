@@ -181,4 +181,9 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Author
 
+**Abinash Bhatta**
+
 Built with ❤️ for the Workato community.
+
+- GitHub: [abinash889](https://github.com/abinash889)
+- LinkedIn: [Abinash Bhatta](https://www.linkedin.com/in/abinash-bhatta-982372187/)
